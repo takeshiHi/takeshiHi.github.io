@@ -213,6 +213,9 @@ footer .pr {
 .publications{
     display: inline-block;/*inline-blockにします*/
 }
+.under {
+	text-decoration : underline;
+}
 
 #contents {
     width: 80%;
